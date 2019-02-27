@@ -1,0 +1,2 @@
+# elastical
+An elasticsearch orm
